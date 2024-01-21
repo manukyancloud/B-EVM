@@ -1,8 +1,4 @@
-<h1 align="center">BEVM</h1>
 
-> Sorularınızın cevapları [burada](https://medium.com/@BTClayer2/announcing-incentivized-bevm-testnet-fullnode-program-31cbc047b950) blogda mevcut.
-
-> TOPLULUK KANALLARI: [Sohbet Kanalımız](https://t.me/RuesChat) - [Duyurular ve Gelişmeler](https://t.me/RuesAnnouncement) - [WhatsappPrivate](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34)
 
 <h1 align="center">Donanım</h1>
 
